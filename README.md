@@ -1,6 +1,4 @@
-# Project Title
-
-"Streamlining Logistics with Data"
+# Streamlining Logistics with Data
 
 # Introduction
 This project revolves around the development of a comprehensive database system for a shipping company.  The aim is to facilitate efficient management of various aspects of shipping operations, including orders, products, customers, and shipping details.
